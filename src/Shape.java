@@ -1,5 +1,3 @@
-package com.company;
-
 public class Shape {
     private String color = "green";
     private boolean filled = true;

@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Comparator;
 
 public class CircleComparator implements Comparator<Circle> {
